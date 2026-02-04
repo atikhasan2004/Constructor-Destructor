@@ -1,0 +1,14 @@
+E:\VS code\Destructor\obj\Debug\net9.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS code\Destructor\obj\Debug\net9.0\Destructor.AssemblyInfoInputs.cache
+E:\VS code\Destructor\obj\Debug\net9.0\Destructor.AssemblyInfo.cs
+E:\VS code\Destructor\obj\Debug\net9.0\Destructor.csproj.CoreCompileInputs.cache
+E:\VS code\Destructor\bin\Debug\net9.0\Destructor.exe
+E:\VS code\Destructor\bin\Debug\net9.0\Destructor.deps.json
+E:\VS code\Destructor\bin\Debug\net9.0\Destructor.runtimeconfig.json
+E:\VS code\Destructor\bin\Debug\net9.0\Destructor.dll
+E:\VS code\Destructor\bin\Debug\net9.0\Destructor.pdb
+E:\VS code\Destructor\obj\Debug\net9.0\Destructor.dll
+E:\VS code\Destructor\obj\Debug\net9.0\refint\Destructor.dll
+E:\VS code\Destructor\obj\Debug\net9.0\Destructor.pdb
+E:\VS code\Destructor\obj\Debug\net9.0\Destructor.genruntimeconfig.cache
+E:\VS code\Destructor\obj\Debug\net9.0\ref\Destructor.dll
